@@ -11,8 +11,6 @@ const swipe = document.querySelector('.swipe')
 const amountBox = document.querySelector('.amount-box')
 
 
-
-
 amountBox.addEventListener("input",(evt)=>{
     let value = evt.target.value;
     if(value.length > 6){
