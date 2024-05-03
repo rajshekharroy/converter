@@ -1,1 +1,1 @@
-<a href="https://rajshekharroy.github.io/currency_converter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@raj_codehub" height="30" width="40" /></a>
+<a href="https://rajshekharroy.github.io/currency_converter/" target="blank">Click to see/a>
